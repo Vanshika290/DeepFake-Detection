@@ -2,6 +2,7 @@
 
 A forensic-grade deepfake detection system supporting **image, video, audio, and text** modalities, with Explainable AI (XAI) artifacts including Grad-CAM heatmaps, Error Level Analysis, rPPG pulse visualization, and 3D biometric mesh integrity analysis.
 
+Live 👉 https://deepfake-detection-multimodalai.netlify.app/
 ---
 
 ## 🏗️ Architecture Overview
